@@ -19,7 +19,7 @@ This is a Script to automate the reactions on Telegram Channels (Public + Privat
 - Supports for Groups & Channels ✓
 - Compliance with Telegram API Updates ✓
 - Lightweight Code - Easy Setup ✓
-- My Support on Telegram <a href="https://t.me/perfect26456">Perfect ×͜×</a>
+- My Support on Telegram <a href="https://t.me/H4cker_destroyer">Perfect ×͜×</a>
 
 <br>
 
